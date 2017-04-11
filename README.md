@@ -29,10 +29,10 @@ Ui：OK
 1：ToastToUser;Some Infomation Must Input
 
 2：saveOrder
-- []CustomerInfo
-- []FaultList
-- []ServerObject
-- [ ]MaterialObject
+- CustomerInfo
+- FaultList
+- ServerObject
+- MaterialObject
 	 
 
 3：customer confirm
